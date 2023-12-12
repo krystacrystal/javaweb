@@ -36,4 +36,11 @@ public class testBaseDao {
         int row = baseDao.baseUpdate(sql, 1, "学习Java", 0);
         System.out.println(row);
     }
+
+    @Test
+    public void test4() {
+        String sql = "select uid,username userName,user_pwd userPwd from sys_user where username = ?";
+        List<SysUser> sysUserList = baseDao.baseQuery(SysUser.class, sql, "wangwu");
+        System.out.println(sysUserList.get(0));
+    }
 }
