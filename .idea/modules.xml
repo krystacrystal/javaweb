@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo04-attribute/demo04.iml" filepath="$PROJECT_DIR$/demo04-attribute/demo04.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo05-path/demo05-path.iml" filepath="$PROJECT_DIR$/demo05-path/demo05-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo06-cookiesession/demo06-cookiesession.iml" filepath="$PROJECT_DIR$/demo06-cookiesession/demo06-cookiesession.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo07-filter/demo07-filter.iml" filepath="$PROJECT_DIR$/demo07-filter/demo07-filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/schedule_system/schedule_system.iml" filepath="$PROJECT_DIR$/schedule_system/schedule_system.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/web-all.iml" filepath="$PROJECT_DIR$/.idea/web-all.iml" />
       <module fileurl="file://$PROJECT_DIR$/web01/web01.iml" filepath="$PROJECT_DIR$/web01/web01.iml" />
