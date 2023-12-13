@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo01-mytest/demo01-mytest.iml" filepath="$PROJECT_DIR$/demo01-mytest/demo01-mytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo02-servlet01/demo02-servlet01.iml" filepath="$PROJECT_DIR$/demo02-servlet01/demo02-servlet01.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo03-servletConfig-servletContext/demo03-servletConfig-servletContext.iml" filepath="$PROJECT_DIR$/demo03-servletConfig-servletContext/demo03-servletConfig-servletContext.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo04/demo04.iml" filepath="$PROJECT_DIR$/demo04/demo04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo04-attribute/demo04.iml" filepath="$PROJECT_DIR$/demo04-attribute/demo04.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo05-path/demo05-path.iml" filepath="$PROJECT_DIR$/demo05-path/demo05-path.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo06-cookiesession/demo06-cookiesession.iml" filepath="$PROJECT_DIR$/demo06-cookiesession/demo06-cookiesession.iml" />
       <module fileurl="file://$PROJECT_DIR$/schedule_system/schedule_system.iml" filepath="$PROJECT_DIR$/schedule_system/schedule_system.iml" />
