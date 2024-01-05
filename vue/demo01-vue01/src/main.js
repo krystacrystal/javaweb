@@ -1,5 +1,5 @@
 import {createApp} from "vue";
 
-import App from './components/04-响应式数据的处理.vue'
+import App from './App.vue'
 
 createApp(App).mount("#app")
