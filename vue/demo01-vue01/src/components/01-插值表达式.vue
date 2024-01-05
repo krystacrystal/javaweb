@@ -1,6 +1,3 @@
-
-
-
 <script setup>
 
 let msg = "hello vue3"
