@@ -6,6 +6,8 @@ import Home from '../components/Home.vue'
 import List from '../components/List.vue'
 import Update from '../components/Update.vue'
 import Add from '../components/Add.vue'
+import ShowDetail from '../components/ShowDetail.vue'
+import ShowDetail2 from '../components/ShowDetail2.vue'
 
 const router = createRouter({
     history: createWebHashHistory(),
@@ -29,6 +31,14 @@ const router = createRouter({
         {
             path: "/update",
             component: Update
+        },
+        {
+            path: "/showDetail/:id/:language",
+            component: ShowDetail
+        },
+        {
+            path: "/showDetail2",
+            component: ShowDetail2
         }
     ]
 })
